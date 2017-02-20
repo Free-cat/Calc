@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Calc</string>
+    <string name="action_settings">Выход</string>
+    <string name="calculator">Калькулятор</string>
+
+    <string name="num">Ввод...</string>
+</resources>
